@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPx0ppIesg33Dg8ELSBGCx1Stuo/Q0IHQJIiQzi4f4hL7g7xmOX+xgUSIOTYoELtszCl4Tr+xCOIZZ+l7JfBQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\IOWorks\\IOWorks\\IOWorks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

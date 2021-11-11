@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\bin\Debug\netcoreapp3.1\IOWorks.exe
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\bin\Debug\netcoreapp3.1\IOWorks.deps.json
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\bin\Debug\netcoreapp3.1\IOWorks.runtimeconfig.json
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\bin\Debug\netcoreapp3.1\IOWorks.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\bin\Debug\netcoreapp3.1\IOWorks.dll
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\bin\Debug\netcoreapp3.1\IOWorks.pdb
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.dll
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.pdb
+C:\Users\ADMIN\source\repos\IOWorks\IOWorks\obj\Debug\netcoreapp3.1\IOWorks.genruntimeconfig.cache
